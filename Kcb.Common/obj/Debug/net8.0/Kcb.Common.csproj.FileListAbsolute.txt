@@ -1,0 +1,11 @@
+C:\workspace\KcbStudy\Kcb.Common\bin\Debug\net8.0\Kcb.Common.deps.json
+C:\workspace\KcbStudy\Kcb.Common\bin\Debug\net8.0\Kcb.Common.dll
+C:\workspace\KcbStudy\Kcb.Common\bin\Debug\net8.0\Kcb.Common.pdb
+C:\workspace\KcbStudy\Kcb.Common\obj\Debug\net8.0\Kcb.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\KcbStudy\Kcb.Common\obj\Debug\net8.0\Kcb.Common.AssemblyInfoInputs.cache
+C:\workspace\KcbStudy\Kcb.Common\obj\Debug\net8.0\Kcb.Common.AssemblyInfo.cs
+C:\workspace\KcbStudy\Kcb.Common\obj\Debug\net8.0\Kcb.Common.csproj.CoreCompileInputs.cache
+C:\workspace\KcbStudy\Kcb.Common\obj\Debug\net8.0\Kcb.Common.dll
+C:\workspace\KcbStudy\Kcb.Common\obj\Debug\net8.0\refint\Kcb.Common.dll
+C:\workspace\KcbStudy\Kcb.Common\obj\Debug\net8.0\Kcb.Common.pdb
+C:\workspace\KcbStudy\Kcb.Common\obj\Debug\net8.0\ref\Kcb.Common.dll

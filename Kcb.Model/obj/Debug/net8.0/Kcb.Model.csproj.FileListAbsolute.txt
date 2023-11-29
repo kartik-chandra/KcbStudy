@@ -1,0 +1,11 @@
+C:\workspace\KcbStudy\Kcb.Model\bin\Debug\net8.0\Kcb.Model.deps.json
+C:\workspace\KcbStudy\Kcb.Model\bin\Debug\net8.0\Kcb.Model.dll
+C:\workspace\KcbStudy\Kcb.Model\bin\Debug\net8.0\Kcb.Model.pdb
+C:\workspace\KcbStudy\Kcb.Model\obj\Debug\net8.0\Kcb.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\KcbStudy\Kcb.Model\obj\Debug\net8.0\Kcb.Model.AssemblyInfoInputs.cache
+C:\workspace\KcbStudy\Kcb.Model\obj\Debug\net8.0\Kcb.Model.AssemblyInfo.cs
+C:\workspace\KcbStudy\Kcb.Model\obj\Debug\net8.0\Kcb.Model.csproj.CoreCompileInputs.cache
+C:\workspace\KcbStudy\Kcb.Model\obj\Debug\net8.0\Kcb.Model.dll
+C:\workspace\KcbStudy\Kcb.Model\obj\Debug\net8.0\refint\Kcb.Model.dll
+C:\workspace\KcbStudy\Kcb.Model\obj\Debug\net8.0\Kcb.Model.pdb
+C:\workspace\KcbStudy\Kcb.Model\obj\Debug\net8.0\ref\Kcb.Model.dll

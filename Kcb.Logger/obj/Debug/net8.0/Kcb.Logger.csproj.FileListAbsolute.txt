@@ -1,0 +1,11 @@
+C:\workspace\KcbStudy\Kcb.Logger\bin\Debug\net8.0\Kcb.Logger.deps.json
+C:\workspace\KcbStudy\Kcb.Logger\bin\Debug\net8.0\Kcb.Logger.dll
+C:\workspace\KcbStudy\Kcb.Logger\bin\Debug\net8.0\Kcb.Logger.pdb
+C:\workspace\KcbStudy\Kcb.Logger\obj\Debug\net8.0\Kcb.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\KcbStudy\Kcb.Logger\obj\Debug\net8.0\Kcb.Logger.AssemblyInfoInputs.cache
+C:\workspace\KcbStudy\Kcb.Logger\obj\Debug\net8.0\Kcb.Logger.AssemblyInfo.cs
+C:\workspace\KcbStudy\Kcb.Logger\obj\Debug\net8.0\Kcb.Logger.csproj.CoreCompileInputs.cache
+C:\workspace\KcbStudy\Kcb.Logger\obj\Debug\net8.0\Kcb.Logger.dll
+C:\workspace\KcbStudy\Kcb.Logger\obj\Debug\net8.0\refint\Kcb.Logger.dll
+C:\workspace\KcbStudy\Kcb.Logger\obj\Debug\net8.0\Kcb.Logger.pdb
+C:\workspace\KcbStudy\Kcb.Logger\obj\Debug\net8.0\ref\Kcb.Logger.dll
